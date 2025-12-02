@@ -56,7 +56,7 @@ Pkg.add.(["SpecialFunctions", "Plots", "Distributions"])
 1. Clone the repository
 ```bash
 git clone https://github.com/profsms/econ_wgf.git
-cd <repo-name>
+cd econ_wgf
 ```
 2. Run all experiments
 From the shell
