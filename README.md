@@ -3,7 +3,7 @@
 This repository contains the reproducible numerical experiments for the paper
 
 > **Stanisław M. S. Halkiewicz, Vicenţiu D. Rădulescu**  
-> *Economic Adjustment as a Constrained Wasserstein Gradient Flow*.
+> *A Constrained Wasserstein Gradient Flow for Aggregation–Diffusion Dynamics with Application to Economic Adjustment*.
 
 The code implements a finite–difference solver for the constrained Wasserstein
 gradient flow introduced in the paper and produces all figures used in the
